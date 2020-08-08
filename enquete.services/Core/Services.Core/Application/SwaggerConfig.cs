@@ -61,7 +61,7 @@ namespace Services.Core
                 Title = informacoesApi.Nome,
                 Version = informacoesApi.VersaoUsoSwagger,
                 Description = informacoesApi.Descricao,
-                TermsOfService = "https://github.io/RafasTavares/",
+                TermsOfService = "https://github.com/RafasTavares/",
                 Contact = new Contact
                 {
                     Email = "rafaeltavaresandrade@gmail.com",
