@@ -1,0 +1,9 @@
+C:\Users\rafas\Documents\Github\enquete.services\enquete.services\Core\Services.Core\bin\Release\netcoreapp2.2\Services.Core.deps.json
+C:\Users\rafas\Documents\Github\enquete.services\enquete.services\Core\Services.Core\bin\Release\netcoreapp2.2\Services.Core.dll
+C:\Users\rafas\Documents\Github\enquete.services\enquete.services\Core\Services.Core\bin\Release\netcoreapp2.2\Services.Core.pdb
+C:\Users\rafas\Documents\Github\enquete.services\enquete.services\Core\Services.Core\obj\Release\netcoreapp2.2\Services.Core.csprojAssemblyReference.cache
+C:\Users\rafas\Documents\Github\enquete.services\enquete.services\Core\Services.Core\obj\Release\netcoreapp2.2\Services.Core.csproj.CoreCompileInputs.cache
+C:\Users\rafas\Documents\Github\enquete.services\enquete.services\Core\Services.Core\obj\Release\netcoreapp2.2\Services.Core.AssemblyInfoInputs.cache
+C:\Users\rafas\Documents\Github\enquete.services\enquete.services\Core\Services.Core\obj\Release\netcoreapp2.2\Services.Core.AssemblyInfo.cs
+C:\Users\rafas\Documents\Github\enquete.services\enquete.services\Core\Services.Core\obj\Release\netcoreapp2.2\Services.Core.dll
+C:\Users\rafas\Documents\Github\enquete.services\enquete.services\Core\Services.Core\obj\Release\netcoreapp2.2\Services.Core.pdb
